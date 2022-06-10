@@ -1,0 +1,8 @@
+CTRL + L = limpar o gitbash
+git clone = clonar o repositório do github
+git status = verifica o status do git
+cd (local) = entra na pasta
+git add . = adiciona todos os arquivos no git
+git commit -m "mensagem" = "commita" os arquivos adicionados no git, com uma mensagem sobre a atualização
+git push origin main = envia os commits para a o github
+git pull = baixa conteúdo de repositórios remotos, atualizando imediatamente o repositório local
